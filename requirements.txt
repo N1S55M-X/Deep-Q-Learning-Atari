@@ -1,0 +1,6 @@
+torch>=2.0.0
+torchvision>=0.15.0
+gymnasium[atari,accept-rom-license]>=0.29.0
+numpy>=1.23.0
+Pillow>=9.0.0
+ale-py>=0.8.1 
