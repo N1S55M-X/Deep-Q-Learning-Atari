@@ -45,8 +45,6 @@ bash
 - python atari-dqn/Train.py
 ---
 
----
-
 ## 📚 Inspiration & Learning Resources
 
 This implementation was inspired by reinforcement learning concepts presented in:
