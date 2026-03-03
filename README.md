@@ -54,7 +54,7 @@ This implementation was inspired by reinforcement learning concepts presented in
 **Artificial Intelligence A-Z 2026: Agentic AI, Gen AI, and RL**  
 by Hadelin de Ponteves, Kirill Eremenko, and the SuperDataScience Team.
 
-All code in this repository has been written independently for educational and research purposes.
+All code in this repository has been written for educational and research purposes.
 
 
 
